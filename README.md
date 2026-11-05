@@ -4,7 +4,7 @@ A complete two-site enterprise network designed and configured from scratch in C
 
 > Author: Luis Felix (LucienVale) · Built with Cisco Packet Tracer
 
-![Full topology](screenshots/topology.png)
+![Full topology](screenshots/00-topology.png)
 
 ---
 
